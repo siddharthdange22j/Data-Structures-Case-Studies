@@ -1,0 +1,29 @@
+===== SOCIAL NETWORK USING ADJACENCY MATRIX =====
+
+Alice and Bob are now friends.
+Alice and Charlie are now friends.
+Bob and David are now friends.
+Charlie and David are now friends.
+
+===== FRIENDSHIP MATRIX =====
+User      Alice     Bob       Charlie   David
+Alice     0         1         1         0
+Bob       1         0         0         1
+Charlie   1         0         0         1
+David     0         1         1         0
+
+Alice and Bob are friends.
+Alice and David are not friends.
+
+Friends of Alice:
+- Bob
+- Charlie
+
+Friendship between Alice and Bob removed.
+
+===== FRIENDSHIP MATRIX =====
+User      Alice     Bob       Charlie   David
+Alice     0         0         1         0
+Bob       0         0         0         1
+Charlie   1         0         0         1
+David     0         1         1         0
