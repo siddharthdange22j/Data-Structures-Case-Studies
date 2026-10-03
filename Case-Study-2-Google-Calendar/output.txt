@@ -1,0 +1,8 @@
+===== GOOGLE CALENDAR EVENT SCHEDULER =====
+
+Selected Non-Overlapping Events:
+College Lecture       9:00 - 10:00
+Lab                   10:00 - 11:30
+Seminar               11:30 - 13:00
+
+Total Events Selected: 3
