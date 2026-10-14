@@ -1,0 +1,14 @@
+E-COMMERCE PRODUCT SORTING
+Products before sorting:
+Wireless Mouse: Rs. 599
+Keyboard: Rs. 899
+USB Drive: Rs. 399
+Headphones: Rs. 1299
+Laptop Stand: Rs. 749
+
+Products sorted by price (low to high):
+USB Drive: Rs. 399
+Wireless Mouse: Rs. 599
+Laptop Stand: Rs. 749
+Keyboard: Rs. 899
+Headphones: Rs. 1299
