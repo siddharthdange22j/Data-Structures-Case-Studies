@@ -1,0 +1,17 @@
+STACK (LIFO)
+push: Book-A
+push: Book-B
+push: Book-C
+Top -> Book-C -> Book-B -> Book-A
+peek: Book-C
+pop: Book-C
+After pop: Book-B -> Book-A
+
+QUEUE (FIFO)
+enqueue: Student-101
+enqueue: Student-102
+enqueue: Student-103
+Front -> Student-101 -> Student-102 -> Student-103
+peek: Student-101
+dequeue: Student-101
+After dequeue: Student-102 -> Student-103
