@@ -1,0 +1,21 @@
+Added 'algorithm' at bucket 1.
+Added 'binary' at bucket 1.
+Added 'graph' at bucket 5.
+Added 'heap' at bucket 1.
+Added 'queue' at bucket 3.
+Added 'stack' at bucket 2.
+
+Search 'graph': A structure made of vertices and edges.
+Search 'tree': Word not found
+
+Hash table buckets (collisions share a bucket):
+Bucket 0: []
+Bucket 1: [['algorithm', 'A step-by-step procedure to solve a problem.'], ['binary', 'A number system using 0 and 1.'], ['heap', 'A tree-based structure for priority operations.']]
+Bucket 2: [['stack', 'A LIFO data structure.']]
+Bucket 3: [['queue', 'A FIFO data structure.']]
+Bucket 4: []
+Bucket 5: [['graph', 'A structure made of vertices and edges.']]
+Bucket 6: []
+
+Delete 'binary': True
+Search 'binary' after deletion: Word not found
