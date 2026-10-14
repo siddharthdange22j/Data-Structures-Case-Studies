@@ -1,0 +1,16 @@
+GOOGLE CALENDAR - GREEDY EVENT SCHEDULING
+Available events:
+DSA Lecture: 9:00 - 10:00
+Project Meeting: 9.5:00 - 11:00
+Lab Session: 10:00 - 12:00
+Club Meeting: 11:00 - 12:00
+Lunch: 12:00 - 13:00
+Study Group: 13:00 - 14:00
+
+Selected non-overlapping events:
+DSA Lecture: 9:00 - 10:00
+Lab Session: 10:00 - 12:00
+Lunch: 12:00 - 13:00
+Study Group: 13:00 - 14:00
+
+Total events selected: 4
