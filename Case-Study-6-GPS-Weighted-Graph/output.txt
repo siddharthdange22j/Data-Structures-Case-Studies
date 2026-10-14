@@ -1,0 +1,5 @@
+GPS / NAVIGATION SYSTEM
+Start: Home
+Destination: Hospital
+Shortest route: Home -> Bus Stop -> College Gate -> Library -> Hospital
+Total distance: 8 km
