@@ -1,0 +1,14 @@
+SOCIAL NETWORK FRIENDSHIP MANAGER
+
+Friendship matrix (1 = friends, 0 = not friends):
+        Asha   Rahul   Meera   Karan
+ Asha       0       1       1       0
+Rahul       1       0       0       1
+Meera       1       0       0       0
+Karan       0       1       0       0
+
+Are Asha and Rahul friends? True
+Are Meera and Karan friends? False
+
+After removing friendship between Asha and Rahul:
+Are Asha and Rahul friends? False
